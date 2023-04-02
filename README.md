@@ -1,5 +1,6 @@
 # Website Overview
 <h3> Visit the website by clicking the image below.  </h3>
+
 [<img src="demo/thumb.jpg">](https://singular-lollipop-e7f85a.netlify.app/) 
 <br>
 
